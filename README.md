@@ -16,7 +16,10 @@ Data has been collected from Google Trends using [pytrends API](https://github.c
 ### Results:
 - Best Train RMSE: 10.59
 - Best Test RMSE: 6.38
+### Method 1: Using Moving Average
 ![](https://github.com/yashica95/LSTM-Google-Trend/blob/master/images/predictions.png)
 
+### Method 2: Using Differencing
+![](https://github.com/yashica95/LSTM-Google-Trend/blob/master/images/prediction_differencing.png)
 
 The code has been highly inspired from https://github.com/mborysiak/Time-Series-Forecasting-with-ARIMA-and-LSTM repository. Thank you. 
