@@ -23,3 +23,15 @@ Data has been collected from Google Trends using [pytrends API](https://github.c
 ![](https://github.com/yashica95/LSTM-Google-Trend/blob/master/images/prediction_differencing.png)
 
 The code has been highly inspired from https://github.com/mborysiak/Time-Series-Forecasting-with-ARIMA-and-LSTM repository. Thank you. 
+
+### Method 3: Facebook Prophet ( For curiosity) 
+![](https://github.com/yashica95/LSTM-Google-Trend/blob/master/images/facebook_prophet_prediction.png)
+
+**Trends detected by Facebook Prophet**
+![](https://github.com/yashica95/LSTM-Google-Trend/blob/master/images/facebook_prophet.png)
+
+**Key Observations** :
+
+1. The trend is upwards therefore suggesting an increasing trend in learning data science courses
+2. Interestingly, Mondays have the highest search trend whereas the search trend falls on weekends
+3. July to September are the top months for searches, which coincides well with the summer holidays in most parts of the world
